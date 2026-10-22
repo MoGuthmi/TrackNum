@@ -1,7 +1,21 @@
+<div align="center">
+
 # TrackNum
 
-**Turn your Mac trackpad into a numeric keypad.**
+**Your Mac trackpad is now a numpad.**
 **حوّل التاتش باد في الماك إلى لوحة أرقام.**
+
+![TrackNum demo](assets/demo.gif)
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/MoGuthmi/TrackNum/main/install.sh | sh
+```
+
+Free · Open source · One Swift file · No dependencies
+
+</div>
+
+---
 
 Tap **Control** once — a numpad appears on screen. Slide your finger on the trackpad to aim, lift to type. Tap **Control** again to get your trackpad back.
 
@@ -45,6 +59,14 @@ Inspired by a reel from [@gojaehyun.go](https://www.instagram.com/gojaehyun.go/)
 ---
 
 ## Install
+
+**One command:**
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/MoGuthmi/TrackNum/main/install.sh | sh
+```
+
+**Or from source:**
 
 ```bash
 git clone https://github.com/MoGuthmi/TrackNum.git
